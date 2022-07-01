@@ -1,4 +1,4 @@
-# todo-app
+# counter-app with Vue
 
 ## Project setup
 ```
